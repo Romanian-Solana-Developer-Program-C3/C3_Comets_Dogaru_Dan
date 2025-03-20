@@ -13,7 +13,9 @@ const payer = getKeypairFromEnvironment("SECRET_KEY")
 
 
 async function transferToken(amount: number, source: PublicKey, to: PublicKey) {
-    const connection = new Connection(clusterApiUrl("devnet"));
+    const connection = new Connection(clusterApiUrl("devnet"), {
+        commitment: "confirmed"
+    });
 
     const sourceAta = getAssociatedTokenAddressSync(mint, source)
 
@@ -21,7 +23,23 @@ async function transferToken(amount: number, source: PublicKey, to: PublicKey) {
         connection, payer, mint, to
     )
 
-    const sig = await transferChecked(connection, payer, sourceAta, mint, destinationAta.address, payer, amount, 9 )
+    const sig = await transferChecked(
+        connection, 
+        payer, 
+        sourceAta, 
+        mint, 
+        destinationAta.address, 
+        payer, 
+        amount, 
+        9,
+        [], // Additional signers (empty in this case)
+        {
+            commitment: "confirmed",
+            skipPreflight: false,
+            preflightCommitment: "confirmed",
+            maxRetries: 5
+        }
+    )
     const link = getExplorerLink("tx", sig, "devnet");
 
     console.log(`transferred ${amount} tokens to ${transferTo} - ${link}`)
