@@ -4,7 +4,6 @@ import { irysUploader } from "@metaplex-foundation/umi-uploader-irys";
 import { getKeypairFromEnvironment } from "@solana-developers/helpers";
 import { clusterApiUrl } from "@solana/web3.js";
 import "dotenv/config";
-import { readFile } from "fs/promises";
 
 const keypair = getKeypairFromEnvironment("SECRET_KEY");
 const umi = createUmi(clusterApiUrl("devnet"), "confirmed");
