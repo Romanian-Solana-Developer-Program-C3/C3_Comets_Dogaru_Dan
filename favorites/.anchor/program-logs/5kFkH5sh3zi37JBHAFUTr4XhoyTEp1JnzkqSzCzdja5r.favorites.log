@@ -1,0 +1,18 @@
+Streaming transaction logs mentioning 5kFkH5sh3zi37JBHAFUTr4XhoyTEp1JnzkqSzCzdja5r. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 4BYs18io9dk7hkcqEPuXEkd4jiiet9PzVkUcvAM5WoqPeMeKMYYNDqqz41ejkC5VsU8UoLGT7GzMk5BqDU5ZKqUP
+  Status: Ok
+  Log Messages:
+    Program 5kFkH5sh3zi37JBHAFUTr4XhoyTEp1JnzkqSzCzdja5r invoke [1]
+    Program log: Instruction: SetFavorites
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Setting favorites
+    Program log: Program Id: 5kFkH5sh3zi37JBHAFUTr4XhoyTEp1JnzkqSzCzdja5r
+    Program log: User: CJp1AVoRggpHVytA721JWU8TY4jfmUyZUVHTtrfvBNdg
+    Program log: Favorites: HA5Gcu6bcKs1ReezYkafR3rAG6MYmWTRFfDArB5k1n4g
+    Program log: Color: "orange"
+    Program log: Number: 8
+    Program log: Hobbies: ["football", "poker", "gaming"]
+    Program 5kFkH5sh3zi37JBHAFUTr4XhoyTEp1JnzkqSzCzdja5r consumed 47769 of 200000 compute units
+    Program 5kFkH5sh3zi37JBHAFUTr4XhoyTEp1JnzkqSzCzdja5r success

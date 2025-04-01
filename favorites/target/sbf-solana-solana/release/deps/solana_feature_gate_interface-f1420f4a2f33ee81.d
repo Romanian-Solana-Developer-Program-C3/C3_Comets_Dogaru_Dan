@@ -1,0 +1,7 @@
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/sbf-solana-solana/release/deps/libsolana_feature_gate_interface-f1420f4a2f33ee81.rmeta: /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-feature-gate-interface-2.2.1/src/lib.rs
+
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/sbf-solana-solana/release/deps/libsolana_feature_gate_interface-f1420f4a2f33ee81.rlib: /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-feature-gate-interface-2.2.1/src/lib.rs
+
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/sbf-solana-solana/release/deps/solana_feature_gate_interface-f1420f4a2f33ee81.d: /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-feature-gate-interface-2.2.1/src/lib.rs
+
+/Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-feature-gate-interface-2.2.1/src/lib.rs:

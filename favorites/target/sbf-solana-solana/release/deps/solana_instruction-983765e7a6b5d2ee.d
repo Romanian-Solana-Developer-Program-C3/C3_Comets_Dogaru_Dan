@@ -1,0 +1,10 @@
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/sbf-solana-solana/release/deps/libsolana_instruction-983765e7a6b5d2ee.rmeta: /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs
+
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/sbf-solana-solana/release/deps/libsolana_instruction-983765e7a6b5d2ee.rlib: /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs
+
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/sbf-solana-solana/release/deps/solana_instruction-983765e7a6b5d2ee.d: /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs
+
+/Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs:

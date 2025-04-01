@@ -1,0 +1,11 @@
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/debug/deps/libthiserror-20d9926139219af4.rmeta: /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/debug/deps/libthiserror-20d9926139219af4.rlib: /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/dandogaru/C3_Comets_Dogaru_Dan/favorites/target/debug/deps/thiserror-20d9926139219af4.d: /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs /Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs:
+/Users/dandogaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs:
